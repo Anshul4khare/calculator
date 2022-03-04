@@ -1,0 +1,7 @@
+.container{text-align: center;margin-top: 30px;}
+table{margin: auto;}
+input{font-size: 28px;height:50px ; border-radius: 10px;border: 5px solid royalblue;
+text-align: right;}
+button{font-size: 28px;width: 88px;border-radius: 10px;
+  height: 71px;}
+.caclulator{border-color: indianred;display: inline-block;}
